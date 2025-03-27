@@ -11,6 +11,7 @@ int main() {
     int pont_turisticos, pont_turisticos2;  // Número de pontos turísticos
 
     // Entrada de dados para a Carta 1
+    // Armazenagem dos dados insiridos da carta 1
     printf("Insira uma letra de 'A' a 'H' para representar um estado (Carta 1): \n");
     scanf(" %c", &estado);
 
@@ -33,6 +34,7 @@ int main() {
     scanf("%d", &pont_turisticos);
     
     // Entrada de dados para a Carta 2
+    // Armazenagem dos dados insiridos da carta 2
     printf("Insira uma letra de 'A' a 'H' para representar um estado (Carta 2): \n");
     scanf(" %c", &estado2);
 
